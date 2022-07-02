@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228226704566",
+    "project_id": "notes-7f5c2",
+    "storage_bucket": "notes-7f5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228226704566:android:8a9be5717cf3be7c06f217",
+        "android_client_info": {
+          "package_name": "hoods.com.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228226704566-66eovm69p7u4p601f7iqlqabasn2etmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYezbNLtoJa2c5I4rCoKqHjgvdJo0KenY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228226704566-66eovm69p7u4p601f7iqlqabasn2etmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
